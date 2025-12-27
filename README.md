@@ -55,7 +55,7 @@ Databases & Querying:
 
 🚀 Projects
 
-RAG-Powered Conversational AI Portfolio Assistant (ROHbot) | www.rohanraje.com
+###RAG-Powered Conversational AI Portfolio Assistant (ROHbot) | www.rohanraje.com
 
 Architected a full-stack RAG system using Google Gemini, a Node.js backend, and a Supabase vector database.
 
@@ -63,7 +63,7 @@ Integrated the ElevenLabs API for real-time custom voice cloning and the Web Spe
 
 Developed the data ingestion and retrieval pipeline, enabling the AI to pull context from a detailed personal knowledge base.
 
-Agentic AI for Customer Support (Natural Language Understanding System)
+###Agentic AI for Customer Support (Natural Language Understanding System)
 
 Built a production-ready conversational AI system using Retrieval-Augmented Generation (RAG) and foundation models (GPT-4) to automate 85% of Tier-1 customer queries.
 
@@ -71,8 +71,7 @@ Engineered custom routing logic and fine-tuned prompts to ground model outputs, 
 
 Implemented a continuous learning data pipeline to capture user feedback for automated retraining and evaluation.
 
-Agentic AI-Driven Market Intelligence (Large-Scale Data Processing)
-
+###Agentic AI-Driven Market Intelligence (Large-Scale Data Processing)
 Designed a scalable agent framework (LangGraph, LangChain) leveraging Spark and cloud services to process and analyze 10K+ documents daily from 200+ real-time data sources.
 
 Employed RAG pipelines to ground LLM (GPT-4, Claude 3) outputs with real-time external data, achieving 92% accuracy in forecasting market shifts 3-5 weeks in advance.
