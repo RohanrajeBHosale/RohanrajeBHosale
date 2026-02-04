@@ -18,7 +18,7 @@ Upload a banner image to your repo (e.g. /assets/banner.png) and use: -->
 Hi, I'm **Rohanraje**! 👋
 
 📌 **AI / Data Scientist • ML Engineer • GenAI Builder**  
-🎓 **M.S. Data Science** (UMass Dartmouth) — Graduating **Dec 2025 / Jan 2026**  
+🎓 **M.S. Data Science** (UMass Dartmouth) —  **Dec 2025 Graduate**  
 🧠 I love turning messy data into clean systems: **pipelines → models → dashboards → GenAI apps**  
 🛠️ Building: **ROHbot (Portfolio RAG Assistant)**, anomaly detection, agentic workflows, and more  
 🌎 Open to roles: **Data Scientist / ML Engineer / GenAI Engineer / Data Engineer** (US + EU)
